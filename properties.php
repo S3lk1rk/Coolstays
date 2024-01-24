@@ -32,7 +32,7 @@
             padding: 10px;
             color: black;
             font-weight: bold;
-            opacity: 0.7;
+            opacity: 0.8;
             font-family: 'Open Sans', sans-serif;
         }
     </style>
